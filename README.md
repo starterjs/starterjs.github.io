@@ -6,7 +6,7 @@ more. The Starter use principles found in major development environment for novi
 
 Starter is Free Software, made available under the [MIT License](https://opensource.org/licenses/mit-license.php).
 
-#Features
+## Features
 
 ## Using the StarterJs
 

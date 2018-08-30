@@ -1,0 +1,2 @@
+Documentation: https://starterjs.github.io/starterjs/out/
+forum: https://groups.google.com/forum/#!forum/starter-js-pt 
